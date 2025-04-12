@@ -1,0 +1,9 @@
+fastapi>=0.100.0
+uvicorn>=0.22.0
+pydantic>=2.0.0
+sqlalchemy==2.0.29
+# psycopg2-binary is only needed if using PostgreSQL
+# psycopg2-binary>=2.9.6
+alembic>=1.11.1
+pytest>=7.3.1
+httpx>=0.24.1 
